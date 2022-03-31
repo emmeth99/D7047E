@@ -2,7 +2,7 @@
 
 Training loss of the different models
 
-![graph](Exercise1/training_loss.png)
+![graph](training_loss.png)
 
 Orange = SGD + LeakyReLU
 
