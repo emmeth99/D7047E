@@ -3,9 +3,11 @@
 ## Task 1
 
 Plot of training perplexity
+
 ![Plot of perplexity on training of charRNN](char_perplexity_all.png)
 
 Same plot but without first 10 datapoints gives a clearer view of change in perplexity
+
 ![Plot of perplexity on training of charRNN](char_perplexity.png)
 
 ## Task 2
@@ -75,9 +77,11 @@ Same plot but without first 10 datapoints gives a clearer view of change in perp
 ## Task 4
 
 Plot of training perplexity
+
 ![Plot of perplexity on training of wordRNN](word_perplexity_all.png)
 
 Same plot but without first 10 datapoints gives a clearer view of change in perplexity
+
 ![Plot of perplexity on training of wordRNN](word_perplexity.png)
 
 ====== Prime string: The ======
