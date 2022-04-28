@@ -48,7 +48,7 @@ Same plot but without first 10 datapoints gives a (slightly) clearer view of cha
 
     Now, sir, or that that patience o' t
 
-*====== Prime string: What if ======*
+*====== Prime string: What is ======*
 
     What is her buse, good fair
 
