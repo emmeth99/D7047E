@@ -1,6 +1,6 @@
 # Exercise 4
 
-## Task 1
+## Task 1: Training the Char-RNN:
 
 Plot of training perplexity
 
@@ -10,7 +10,7 @@ Same plot but without first 10 datapoints gives a (slightly) clearer view of cha
 
 ![Plot of perplexity on training of charRNN](char_perplexity.png)
 
-## Task 2
+## Task 2: Priming the model with random 5 character strings:
 
 *====== Prime string: l	@_. ======*
 
@@ -36,7 +36,7 @@ Same plot but without first 10 datapoints gives a (slightly) clearer view of cha
     PETRUCHIO:
     No hands ready 
 
-## Task 3
+## Task 3: Priming the model with predefined strings:
 
 *====== Prime string: The ======*
 
@@ -74,7 +74,7 @@ Same plot but without first 10 datapoints gives a (slightly) clearer view of cha
 
     CLIFFORD:
   
-## Task 4
+## Task 4: Training and priming Word-RNN with predefined strings:
 
 Plot of training perplexity
 
