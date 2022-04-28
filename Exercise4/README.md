@@ -6,7 +6,7 @@ Plot of training perplexity
 
 ![Plot of perplexity on training of charRNN](char_perplexity_all.png)
 
-Same plot but without first 10 datapoints gives a clearer view of change in perplexity
+Same plot but without first 10 datapoints gives a (slightly) clearer view of change in perplexity
 
 ![Plot of perplexity on training of charRNN](char_perplexity.png)
 
