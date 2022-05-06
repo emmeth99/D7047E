@@ -34,7 +34,7 @@ When comparing the results from both 20k iterations and 100k iterations between 
 10. Track Failure early- check loss
 11. Add noise to the inputs of the Discriminator (can also add noise to all the layers inside the Discriminator
 
-## Task 1: 
+## Task 2: 
 ### 2.1 Results
 ![Generated adversial images that missclasify 4s as 9s](Task_2.1_first.png)
 ![Generated adversial images that missclasify 4s as 9s](Task_2.1_last.png)
